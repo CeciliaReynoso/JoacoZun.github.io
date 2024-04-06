@@ -1,6 +1,7 @@
 .navbar-expand-lg {
     background-color: 13, 110, 253;
 }
+
 main {
     background-color: azure;
 }
@@ -12,12 +13,6 @@ justify-content: end;
 display: flex;
 justify-content: center;
 }
-
-.container-fluid {
-    display: flex;
-    align-content: center;
-}
-
 
 .img-fluid .img-thumbnail {
     width: 50%;
