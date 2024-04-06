@@ -1,0 +1,25 @@
+.navbar-expand-lg {
+    background-color: 13, 110, 253;
+}
+main {
+    background-color: azure;
+}
+.nav-link .active {
+display: flex;
+justify-content: end;
+}
+.navbar-brand {
+display: flex;
+justify-content: center;
+}
+
+.container-fluid {
+    display: flex;
+    align-content: center;
+}
+
+
+.img-fluid .img-thumbnail {
+    width: 50%;
+    height: 50%;
+}
