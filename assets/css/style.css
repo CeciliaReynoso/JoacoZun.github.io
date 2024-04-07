@@ -18,3 +18,14 @@ justify-content: center;
     width: 50%;
     height: 50%;
 }
+
+.tarjeta {
+    text-align: center;
+    width: 22.5%;
+}
+.caracteristicas {
+    padding: 4rem 2rem;
+  text-align: justify;
+
+
+ }    
