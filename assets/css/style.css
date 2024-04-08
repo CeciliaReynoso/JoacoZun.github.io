@@ -26,6 +26,11 @@ justify-content: center;
 .caracteristicas {
     padding: 4rem 2rem;
   text-align: justify;
-
-
- }    
+ } 
+.object-fit {
+    min-height: 5vh;
+    object-fit: cover;
+  }
+#portafolio img {
+    height: 20rem;  
+  }   
